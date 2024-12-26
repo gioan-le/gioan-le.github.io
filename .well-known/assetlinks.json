@@ -1,14 +1,14 @@
 [
   {
-    "relation" : [
+    "relation": [
       "delegate_permission/common.handle_all_urls",
       "delegate_permission/common.get_login_creds"
     ],
-    "target" : {
-      "namespace" : "android_app",
-      "package_name" : "com.lqgioan.passkeys",
-      "sha256_cert_fingerprints" : [
-        6D:F7:85:9D:41:73:C5:5A:9D:17:47:94:8C:B4:72:66:8B:ED:BF:F4:24:BA:7D:27:E8:B3:19:ED:1E:1A:2C:CA
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.lqgioan.passkeys",
+      "sha256_cert_fingerprints": [
+        "6D:F7:85:9D:41:73:C5:5A:9D:17:47:94:8C:B4:72:66:8B:ED:BF:F4:24:BA:7D:27:E8:B3:19:ED:1E:1A:2C:CA"
       ]
     }
   }
